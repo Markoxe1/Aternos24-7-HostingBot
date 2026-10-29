@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Samo_má_malý_dih",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "LifetogetherSMP.aternos.me:16049",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "your.server.ip",
-    "port": 25565,
+    "port": 16049,
     "version": "",
     "try-creative": false
   },
